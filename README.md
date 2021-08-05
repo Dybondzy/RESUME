@@ -31,7 +31,7 @@ Seeking a Data Engineer or Business Intelligence position, which will utilize my
 ● Scrape information from webpages in order to collect data from a broad range of online sources.
 ● Glean and communicate new business insights using enterprise-grade tools like Tableau
 
-#### Excel, Python, JavaScript, SQL Databases, Tableau, Visualization, MongoDB, AWS, PG Admin, Jupiter
+#### Excel, Python, JavaScript, SQL Databases, Tableau, Visualization, MongoDB, AWS, PG Admin, Jupiter, Google Colab
 
 #### Warehouse Associate (Amazon) JAN 2020 – current 2021:	
 Shopper
