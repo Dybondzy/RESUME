@@ -35,7 +35,7 @@ Seeking a Data Engineer or Business Intelligence position, which will utilize my
 Shopper
 Group Project on Data Analysis on Coronavirus Pandemic [https://github.com/Dybondzy/COVID_Data_Analysis] 
 
-#### Information Technology (IT) until DEC 2019:	
+#### Information Technology (IT) up until 2010 to DEC 2019:	
 IT Principal Manager, supervising the Help Desk, Vendor Management, Change Management, Asset Management at National Telecom Authority.  Computer Software Engineer / Systems Analysis / Data Mining.  I understand the logic of data, how to best collect it, store it, retrieve it and communicate it.  I spend time with software users to determine their requirements.  I then develop a prototype, until we agree that the problem requirement is clearly defined.  Upon the go ahead of stake holders, I develop the required application or report and provide it for user tests.  When the system is approved, I implement it by installing it on the necessary pcs and train the already involved users.  Then I provide upgrades and support after all is done.
 IT Senior Bank Manager and Senior Systems Software Engineer
 ●	Manage 20 others in IT user support
