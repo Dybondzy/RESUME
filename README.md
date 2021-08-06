@@ -9,9 +9,7 @@ Seeking a Data Engineer or Business Intelligence position, which will utilize my
 ●	Data Analysis BootCamp Certification – George Washington University, DC … 2021
 ●	Data Science Certificate – Linkedln … Sept 2020  
 ●	TCI Spectrum Training – Freemont CA … April 2019
-●	Banking Education – FlexCube, and Database Management in Oracle – Compu-Data Management Services – IT Security and Disaster Recovery Management – Banking College, Ghana … 2005 - 2009
-●	Oracle Professional Development Training – DigiCorp 2000, Reston, VA … 2006
-●	B.A., Business Operations – Gustavus Adolphus College, St. Peter, MN 56082 … 1989 – 1993
+●	B.A., Business Operations – Gustavus Adolphus College, St. Peter, MN 56082
 
 ## SUMMARY OF EXPERIENCE: 
 
