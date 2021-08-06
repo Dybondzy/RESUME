@@ -37,7 +37,7 @@ Seeking a Data Engineer or Business Intelligence position, which will utilize my
 Shopper
 Group Project on Data Analysis on Coronavirus Pandemic [https://github.com/Dybondzy/COVID_Data_Analysis] 
 
-#### Information Technology (IT) JAN 2005 – DEC 2019:	
+#### Information Technology (IT) until DEC 2019:	
 IT Principal Manager, supervising the Help Desk, Vendor Management, Change Management, Asset Management at National Telecom Authority.  Computer Software Engineer / Systems Analysis / Data Mining.  I understand the logic of data, how to best collect it, store it, retrieve it and communicate it.  I spend time with software users to determine their requirements.  I then develop a prototype, until we agree that the problem requirement is clearly defined.  Upon the go ahead of stake holders, I develop the required application or report and provide it for user tests.  When the system is approved, I implement it by installing it on the necessary pcs and train the already involved users.  Then I provide upgrades and support after all is done.
 IT Senior Bank Manager and Senior Systems Software Engineer
 ●	Manage 20 others in IT user support
@@ -53,12 +53,12 @@ MS WINDOWS, UNIX, MS DOS, APPLE
 #### Applications: 
 OBIEE, PLSQL, Business Objects, Oracle 10g, Microsoft Office Suite, Flex-Cube, MS Outlook, Webcam; Adobe products
 
-#### Software Engineer at SAIC, Warrenton, VA MAY 2003 – DEC 2004
+#### Software Engineer at SAIC, Warrenton, VA 
 ●	MS Access Basic and SQL Software Developer
 ●	Developed and maintained highly sensitive applications.  Implemented Security System  
 ●	Worked on application with 250 multi-tier tables, 150 users, and 15 user groups
 
-#### Programmer Analyst Consultant with EDP, VA	SEPT 1995 - APR 2003
+#### Programmer Analyst Consultant with EDP, VA	
 ●	Served as Independent consultant with various engagement.  Developed and maintained a tracking and reporting system
 ●	Experience with Full Software Development Life Cycle including requirements definition, prototype development, testing, and support.  Majority of work involved development of applications using Access Basic and SQL.
 ●	Provided quality assurance feedback on applications and trained users on software packages
