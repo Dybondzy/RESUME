@@ -1,6 +1,9 @@
 # RESUME
 
 dybondzy@gmail.com
+
+https://www.linkedin.com/in/dinah-bondzie-b61369139/
+
     
 ## OBJECTIVE: 
 Seeking a Data Engineer or Business Intelligence position, which will utilize my current experience, working with informatics, data analysis, software engineering, and customer service, while offering opportunity for professional development and growth based upon my initiative. 
