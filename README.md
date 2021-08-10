@@ -3,9 +3,9 @@
 ## Dinah Bondzie
 Software / Data Engineer, Business Intelligence, Learner
 
-dybondzy@gmail.com
+[dybondzy@gmail.com]
 
-https://www.linkedin.com/in/dinah-bondzie-b61369139/
+[https://www.linkedin.com/in/dinah-bondzie-b61369139/]
 
 
 ## EXPERIENCE
