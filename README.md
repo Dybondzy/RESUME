@@ -1,7 +1,7 @@
 # RESUME
 
 ## Dinah Bondzie
-Software / Data Engineer, Business Intelligence, Learner
+Software / Data Engineer, Business Intelligence
 
 [dybondzy@gmail.com]
 
@@ -9,7 +9,25 @@ Software / Data Engineer, Business Intelligence, Learner
 
 
 ## EXPERIENCE
-Warehouse Associate (Amazon) JAN 2020 – current 2021:	
+Senior Software Engineer & CEO - Consulting on Informatics
+DyBondzy                                                                            July 2017 – current
+● Employ statistical analysis to model, predict, and forecast trends.
+● Build VBA scripts in Excel to automate tedious manual processes.
+● Use real-world data sources to showcase social, financial, and political phenomena.
+● Create Python-based scripts to automate the clean up, restructuring, and rendering of large, heterogeneous datasets.
+● Interact with RESTful APIs using Python Requests and JSON parsing techniques.
+● Generate in-depth graphs, charts, and tables using a wide variety of data-driven programming languages and libraries.
+● Use geographic data to create visually exciting, interactive, and informative maps.
+● Build custom interactive data visualizations using JavaScript libraries.
+● Write SQL commands to perform, create, read, update, and delete (CRUD) operations.
+● Use advanced SQL and Mongo techniques to combine multiple datasets into more comprehensive databases.
+● Create basic interactive websites and applications to showcase your work to outside audiences.
+● Construct web applications and visual datasets with a variety of charts.
+● Scrape information from webpages in order to collect data from a broad range of online sources.
+● Clean and communicate new business insights using enterprise-grade tools like Tableau.
+
+Python, Jupiter, SQL Databases, Tableau, Visualization, MongoDB, AWS, PG Admin, JavaScript, Excel
+
 
 Information Technology (IT) up until 2010 to DEC 2019:	
 
@@ -54,24 +72,9 @@ Coronavirus Pandemic Playbook — Group Project
 [https://github.com/dwwatson1/coronavirus_pandemic_playbook]
 
 
-## SKILLS
-● Employ statistical analysis to model, predict, and forecast trends.
-● Build VBA scripts in Excel to automate tedious manual processes.
-● Use real-world data sources to showcase social, financial, and political phenomena.
-● Create Python-based scripts to automate the clean up, restructuring, and rendering of large, heterogeneous datasets.
-● Interact with RESTful APIs using Python Requests and JSON parsing techniques.
-● Generate in-depth graphs, charts, and tables using a wide variety of data-driven programming languages and libraries.
-● Use geographic data to create visually exciting, interactive, and informative maps.
-● Build custom interactive data visualizations using JavaScript libraries.
-● Write SQL commands to perform, create, read, update, and delete (CRUD) operations.
-● Use advanced SQL and Mongo techniques to combine multiple datasets into more comprehensive databases.
-● Create basic interactive websites and applications to showcase your work to outside audiences.
-● Construct web applications and visual datasets with a variety of charts.
-● Scrape information from webpages in order to collect data from a broad range of online sources.
-● Glean and communicate new business insights using enterprise-grade tools like Tableau.
 
 
 ## LANGUAGES / APPS
-Excel, Python, JavaScript, SQL Databases, Tableau, Visualization, MongoDB, AWS, PG Admin, Jupiter, Google Colab, MS Windows, UNIX, MS DOS, APPLE, OBIEE, PLSQL, Business Objects, Oracle 10g, Microsoft Office Suite, Flex-Cube, MS Outlook, Webcam; Adobe products
+Python, JavaScript, SQL Databases, Tableau, Visualization, MongoDB, AWS, PG Admin, Jupiter, Google Colab, Excel, MS Windows, UNIX, MS DOS, APPLE, OBIEE, PLSQL, Business Objects, Oracle 10g, Microsoft Office Suite, Flex-Cube, MS Outlook, Webcam; Adobe products
 
 
