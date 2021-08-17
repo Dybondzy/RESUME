@@ -32,9 +32,12 @@ Python, Jupiter, SQL Databases, Tableau, Visualization, MongoDB, AWS, PG Admin, 
 Information Technology (IT) up until 2010 to DEC 2019:	
 
 ### IT Principal Manager
+National Communications Authority, Ghana            	                             July 2017 - Dec 2019
 Supervising the Help Desk, Vendor Management, Change Management, Asset Management at National Telecom Authority.  Computer Software Engineer / Systems Analysis / Data Mining.  I understand the logic of data, how to best collect it, store it, retrieve it and communicate it.  I spend time with software users to determine their requirements.  I then develop a prototype, until we agree that the problem requirement is clearly defined.  Upon the go ahead of stakeholders, I develop the required application or report and provide it for user tests.  When the system is approved, I implement it by installing it on the necessary pcs and train the already involved users.  Then I provide upgrades and support after all is done.
 
+
 ### IT Senior Bank Manager and Senior Systems Software Engineer
+Prudential Bank Ltd, Ghana            	                                          Jan 2005 – July 2017
 ●	Manage 20 others in IT user support
 ●	Lead in the data extract, development, maintenance, and migration of Anti Money Laundering System (AML) and Credit Bureau System
 ●	Mine, analyze, extract and report on data with SQL in Business Objects 6, TOAD, PLSQL, MS Access, and OBIEE
@@ -42,14 +45,16 @@ Supervising the Help Desk, Vendor Management, Change Management, Asset Managemen
 ●	Determine user requirements and analyze data for accuracy.  Provide system upgrade of banking software.  Provide all pc support … hardware, software, Email
 ●	Point of contact to Contractors and Executives.  Lead analyst in problem solving of irregularities in banking data.  Computer Application Trainer
 
+
 ### Software Engineer
-SAIC, Warrenton, VA 
+SAIC, Warrenton, VA             	                                                 May 2003 – Dec 2004 
 ●	MS Access Basic and SQL Software Developer
 ●	Developed and maintained highly sensitive applications.  Implemented Security System  
 ●	Worked on application with 250 multi-tier tables, 150 users, and 15 user groups
 
+
 ### Programmer Analyst Consultant
-EDP, VA	
+EDP, Vienna, VA            	                                                        Sept 1995 – Apr 2003		
 ●	Served as Independent consultant with various engagements.  Developed and maintained a tracking and reporting system
 ●	Experience with Full Software Development Life Cycle including requirements definition, prototype development, testing, and support.  Majority of work involved development of applications using Access Basic and SQL.
 ●	Provided quality assurance feedback on applications and trained users on software packages
