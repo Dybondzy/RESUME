@@ -7,6 +7,8 @@ Software / Data Engineer, Business Intelligence
 
 [https://www.linkedin.com/in/dinah-bondzie-b61369139/]
 
+[https://docs.google.com/document/d/1oUPv4EbzeZL9Knba-iPDXdREVw0ZnmTpvsPYtsz7m9s/edit?usp=sharing]
+
 
 ## EXPERIENCE
 Senior Software Engineer & CEO - Consulting on Informatics
