@@ -24,7 +24,7 @@ DyBondzy                                                                        
 ● Create basic interactive websites and applications to showcase your work to outside audiences.
 ● Construct web applications and visual datasets with a variety of charts.
 ● Scrape information from webpages in order to collect data from a broad range of online sources.
-● Clean and communicate new business insights using enterprise-grade tools like Tableau.
+● Glean and communicate new business insights using enterprise-grade tools like Tableau.
 
 Python, Jupiter, SQL Databases, Tableau, Visualization, MongoDB, AWS, PG Admin, JavaScript, Excel
 
