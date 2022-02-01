@@ -11,6 +11,11 @@ Software / Data Engineer, Business Intelligence
 
 
 ## EXPERIENCE
+
+Research Assistant
+Wesley Theological Seminary                                                         Jan 2022 – current
+● Working with large data files in Excel and SPSS 
+
 Senior Software Engineer & CEO - Consulting on Informatics
 DyBondzy                                                                            July 2017 – current
 ● Employ statistical analysis to model, predict, and forecast trends.
