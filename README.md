@@ -12,6 +12,11 @@ Software / Data Engineer, Business Intelligence
 
 ## EXPERIENCE
 
+Marketing Research Assistant
+Compass Solution, DC                                                         	      Jun 2022 – current
+●Working with large data files in Google Docs and Spreadsheet
+●Working on Project Proposals Tracking and Definition
+
 Research Assistant
 Wesley Theological Seminary                                                         Jan 2022 – current
 ● Working with large data files in Excel and SPSS 
