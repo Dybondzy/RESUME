@@ -9,6 +9,19 @@ Theologian / IT Software Manager / Data Management / Business Intelligence / Dat
 
 [https://docs.google.com/document/d/1oUPv4EbzeZL9Knba-iPDXdREVw0ZnmTpvsPYtsz7m9s/edit?usp=sharing]
 
+## SUMMARY 
+Multidisciplinary, driven Data Analyst with a passion for condensing large data into a simple understanding of the story and effectively communicating it. Adept at working independently and collaborating with teams across multiple functions to take information from a wide variety of sources and effectively break down concepts in layman's terms to diverse audiences. Excels at solving complex problems and training all stakeholders.  Connects with systems and customers for efficient support. US Citizen.
+
+## TECHNICAL SKILLS
+Programming and Database Technologies: Python, Jupyter, SQL Databases, Tableau, Visualization, MongoDB, AWS, PG Admin, JavaScript, Excel
+Applications and Platforms: Google Colab, MS Windows, UNIX, MS, DOS, APPLE, OBIEE, PLSQL, Business Objects, Oracle 10g, Microsoft Office Suite, Flex-Cube, MS Outlook, Webcam, Adobe products
+
+## HIGHLIGHTED PROJECT 
+Coronavirus Pandemic Playbook — Group Project
+The goal was to use data from CDC (Centers for Disease Control and Prevention) and U.S. Census, to determine which social, economic, and political factors contributed to the spread of COVID-19. Utilizes PostgreSQL, AWS RDS, Jupyter Notebook, Pandas, Tableau, and Google Collab Notebook. 
+https://github.com/Dybondzy/COVID_Data_Analysis
+https://github.com/dwwatson1/coronavirus_pandemic_playbook
+
 
 ## EXPERIENCE
 
