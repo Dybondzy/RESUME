@@ -1,7 +1,7 @@
 # RESUME
 
 ## Dinah Bondzie
-IT Software Manager / Data Management / Business Intelligence / Data Analyst
+Theologian / IT Software Manager / Data Management / Business Intelligence / Data Analyst
 
 [dybondzy@gmail.com]
 
@@ -13,11 +13,13 @@ IT Software Manager / Data Management / Business Intelligence / Data Analyst
 ## EXPERIENCE
 
 Marketing Research Assistant
+
 Compass Solution, DC                                                         	      Jun 2022 – current
 ●Working with large data files in Google Docs and Spreadsheet
 ●Working on Project Proposals Tracking and Definition
 
 Research Assistant
+
 Wesley Theological Seminary                                                         Jan 2022 – May 2022
 ● Working with large data files in Excel and SPSS 
 
