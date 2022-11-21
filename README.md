@@ -1,7 +1,7 @@
 # RESUME
 
 ## Dinah Bondzie
-Software / Data Engineer, Business Intelligence
+IT Software Manager / Data Management / Business Intelligence / Data Analyst
 
 [dybondzy@gmail.com]
 
@@ -18,7 +18,7 @@ Compass Solution, DC                                                         	  
 ●Working on Project Proposals Tracking and Definition
 
 Research Assistant
-Wesley Theological Seminary                                                         Jan 2022 – current
+Wesley Theological Seminary                                                         Jan 2022 – May 2022
 ● Working with large data files in Excel and SPSS 
 
 Senior Software Engineer & CEO - Consulting on Informatics
